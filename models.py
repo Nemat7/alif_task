@@ -9,3 +9,6 @@ class Booking:
     user_name: str
     user_email: str
     user_phone: str
+
+
+
