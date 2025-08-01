@@ -1,7 +1,7 @@
 import argparse
 from datetime import datetime
 from database import init_db, check_availability, add_booking
-from notifications import send_booking_notification
+from notification import send_booking_notification
 from models import Booking
 
 
